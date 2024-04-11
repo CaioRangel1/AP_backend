@@ -1,0 +1,3 @@
+### Equipe: 
+* Caio Rangel
+* Thales
